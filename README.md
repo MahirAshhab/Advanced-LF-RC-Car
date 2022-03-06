@@ -7,12 +7,6 @@
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="30" width="40" />
 </p>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="CPP" height="30" width="40" />
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="30" width="40" />
-</p>
-
 <h3 align="left">List of Components:</h3>
 <p align="left">
     <ul>
